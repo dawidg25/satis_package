@@ -1,0 +1,15 @@
+{
+  "name": "satis_packege",
+  "description": "desc",
+  "keywords": ["asd", "asd"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "daw",
+      "email": "daw@php.net"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
